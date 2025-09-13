@@ -1,4 +1,3 @@
-# Homepage-[moritz_about_page_download (1).html](https://github.com/user-attachments/files/22311241/moritz_about_page_download.1.html)
 <!DOCTYPE html>
 <html lang="de">
 <head>
